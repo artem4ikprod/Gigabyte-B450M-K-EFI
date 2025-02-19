@@ -1,16 +1,16 @@
 # Gigabyte-B450M-K-EFI
-Hackintosh EFI for Gigabyte B450M K
+Opencore EFI for Gigabyte B450M K
 
 
 My PC Specs:
 
-AMD Ryzen 5 2600
+CPU:AMD Ryzen 5 2600
 
-2x8GB DDR4 G.skill memory (running at 3200)
+RAM:2x8GB DDR4 G.skill memory (running at 3200)
 
-Nvidia Geforce GTX 1080 TI (patched by opencore legacy patcher)
+GPU:Nvidia Geforce GTX 1080 TI (patched by opencore legacy patcher)
 
-M.2 NVME Kingspec 512GB SSD
+SSD:M.2 NVME Kingspec 512GB SSD
 
 Screenshots:
 

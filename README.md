@@ -1,4 +1,4 @@
-# Gigabyte_B450M_K_HACKINTOSH_EFI
+# Gigabyte-B450M-K-EFI
 Hackintosh EFI for Gigabyte B450M K
 
 
